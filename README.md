@@ -50,21 +50,13 @@ Why HSV?
 ## 📊 Visualisations
 
 ### 🔹 Face Detection Result
+<img width="1695" height="965" alt="image" src="https://github.com/user-attachments/assets/eaec151c-014a-4685-a4b2-90deee65dd70" />
 
-![Face Detection](images/face_detection.png)
+<img width="588" height="583" alt="image" src="https://github.com/user-attachments/assets/41180814-ff8d-4503-ba80-901355e3bd95" />
 
----
-
-### 🔹 HSV Feature Space with Clusters
-
-![Cluster Plot](images/cluster_plot.png)
-
-- Green → Cluster 0  
-- Blue → Cluster 1  
-- Red/Black X → Centroids  
-- Violet → Template Image  
 
 ---
+
 
 ## 📈 Key Findings
 
